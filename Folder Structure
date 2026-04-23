@@ -1,0 +1,6 @@
+ktor-portfolio/
+├─ src/
+│  └─ main/kotlin/Main.kt
+├─ build.gradle.kts
+└─ resources/
+   └─ application.conf
